@@ -95,6 +95,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\css\customized2497.css" />
     <Content Include="img\cover003.JPG" />
     <Content Include="img\ME_2.jpg" />
     <Content Include="img\of.png" />

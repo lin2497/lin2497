@@ -25,61 +25,9 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.ico" />
-    <style>
-        .inner-text {
-            color: white;
-        }
 
-        .subtitle {
-            text-transform: uppercase;
-            color: slategrey;
-            padding: 20px;
-        }
-
-        .imagebox {
-            width: 100%;
-            height: 100px;
-            overflow: hidden;
-        }
-
-            .imagebox img {
-                max-width: 100%;
-                max-height: 100%;
-            }
-
-        .dash-point {
-            position: relative;
-            font-size: 13px;
-            color: #81848f;
-            padding-left: 20px;
-            margin-bottom: 10px;
-        }
-
-            .dash-point:before {
-                position: absolute;
-                top: 7px;
-                left: 0;
-                background: #17bed2;
-                margin-right: 10px;
-                width: 9px;
-                height: 2px;
-                content: " ";
-            }
-
-        ul {
-            list-style-type: none;
-        }
-
-        .shadowbox {
-            box-shadow: 10px 10px 5px grey;
-        }
-
-        .languageZH {
-            display: none;
-        }
-    </style>
-
-
+    <!-- My Sheet -->
+    <link href="Assets/css/customized2497.css" rel="stylesheet" />
 </head>
 <!-- END HEAD -->
 
@@ -277,14 +225,14 @@
                             <h5>George Mason University</h5>
                             <h5>M.S. in Applied Information Technology  GPA: 3.73</h5>
                             <p>The skills I have are quite universal - and keep expanding by learning. I have the ability to do both and art design and coding, often worked as a website developer. Look at the projects that I've done might introduce me better -  thank you for your time.</p>
-                            <h5><a href="cv.pdf" class="btn-theme btn-theme-sm btn-white-bg text-uppercase" target="_blank">full resume</a></h5>
+                            <h5><a href="cv.pdf" class="btn-theme btn-theme-sm btn-white-bg text-uppercase gapbutton" target="_blank">full resume</a><a href="https://github.com/lin2497" class="btn-theme btn-theme-sm btn-white-bg text-uppercase gapbutton" target="_blank">Github</a></h5>
                         </div>
                         <div class="languageZH">
                             <h4>林嘉華（Jeff）<span class="text-uppercase margin-l-20">軟體工程師</span></h4>
                             <h5>喬治梅森大學</h5>
                             <h5>應用資訊科技碩士  GPA: 3.73</h5>
                             <p>我技能多元，而且不斷地學習新的技能，不論程式或美術都有涉獵。歡迎看看作品列表，這樣能夠更容易了解我的工作定位...謝啦！</p>
-                            <h5><a href="cv.pdf" class="btn-theme btn-theme-sm btn-white-bg text-uppercase" target="_blank">看我完整履歷</a></h5>
+                            <h5><a href="cv.pdf" class="btn-theme btn-theme-sm btn-white-bg text-uppercase gapbutton" target="_blank">看我完整履歷</a><a href="https://github.com/lin2497" class="btn-theme btn-theme-sm btn-white-bg text-uppercase gapbutton" target="_blank">Github</a></h5>
                         </div>
                     </div>
                     <div class="col-md-5 col-sm-7 col-md-offset-2">
